@@ -7,4 +7,4 @@ the very old Servlet technolgy and java servlet pages (jsp). It is crucial to un
 web development frameworks.
 
 This project shows a sample implementation of an online furniture selling website, done solely using servlets and MySQL 
-database in the background. 
+database in the backend.
